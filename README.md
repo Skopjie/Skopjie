@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Diego Matilla and I'm a Software Engineer from Spain</p>
+<p align="left">My name is <strong>Diego Matilla</strong> and I'm a <strong>Software Engineer</strong> from Spain. I began my career as a programmer by creating video games using the Unity game engine. Currently, I develop various technological solutions, including Fullstack web applications, mobile apps, and projects related to artificial intelligence, among other things.</p>
 
 ###
 
