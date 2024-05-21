@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on full stack web projects<br>✨ I regulary post my projects on https://diegomatillaporfolio.es/<br>📚 I'm currently learning apps<br>📫 How to reach me diego.matilla.dev@gmail.com</p>
+🔭 I’m currently working on full-stack web projects.
+
+✨ I regularly post my projects at [diegomatillaporfolio.es](https://diegomatillaporfolio.es/).
+
+📚 I'm currently learning about app development.
+
+📫 How to reach me: diego.matilla.dev@gmail.com
 
 ###
 
